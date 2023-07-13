@@ -1,12 +1,12 @@
-Privacy Policy
+# Privacy Policy
 
 By using the app "Social Caption" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy.
 
-Information Collection and Use
+### Information Collection and Use
 
 We do not collect or store any user data.
 
-Changes to This Privacy Policy
+### Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
